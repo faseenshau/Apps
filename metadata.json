@@ -1,0 +1,6 @@
+{
+  "name": "FocusLock",
+  "description": "Student productivity app that blocks distracting apps during scheduled study sessions with custom timers, focus shields, and goal tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
